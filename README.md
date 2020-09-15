@@ -49,4 +49,4 @@ $ gotcpscan -host scanme.nmap.org -ports 1-1000,31337
 
 ## Installing
 
-`go get -u gitlab.com/f0xtek/gotcpscan`
+`go get -u github.com/f0xtek/gotcpscan`
