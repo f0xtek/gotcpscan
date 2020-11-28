@@ -7,7 +7,7 @@ import (
 	"os"
 	"sort"
 
-	"gitlab.com/f0xtek/gotcpscan/pkg/portformat"
+	"github.com/f0xtek/gotcpscan/pkg/portformat"
 )
 
 func main() {
